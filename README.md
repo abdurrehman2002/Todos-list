@@ -4,6 +4,8 @@ This is a website  to create Todos list .This website is fully developed in reac
 # Installation
 Install my-project with npm
 
-npm install yoga-website 
+npm install project-name 
 
-cd my-yoga-website npm start
+cd project-name
+
+npm start
