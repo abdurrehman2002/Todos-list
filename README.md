@@ -1,4 +1,4 @@
-# ReactJs-Yoga-Website
+# ReactJs-Todoslist-Website
 This is a website  to create Todos list .This website is fully developed in react js.
 
 # Installation
